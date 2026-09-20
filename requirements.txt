@@ -1,8 +1,5 @@
-fastapi
-uvicorn
+streamlit
 pandas
-scikit-learn
+scikit-learn==1.6.1
 imbalanced-learn
 joblib
-streamlit
-scikit-learn==1.6.1   
